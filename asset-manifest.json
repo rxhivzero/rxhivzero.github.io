@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.11aec96b.css",
-    "main.js": "./static/js/main.4f2e541c.js",
-    "static/js/787.9712b437.chunk.js": "./static/js/787.9712b437.chunk.js",
-    "static/media/info4.png": "./static/media/info4.b23c3d600cc7f75163ec.png",
-    "static/media/bg.png": "./static/media/bg.fb5bd5b3234ab9bdc806.png",
-    "static/media/pcBg.png": "./static/media/pcBg.30b34bcde0d27533134f.png",
-    "static/media/info3.png": "./static/media/info3.a5637cebbd146f701b24.png",
-    "static/media/pcLogo.png": "./static/media/pcLogo.6bc924f9868048fa7ad1.png",
-    "static/media/step5.png": "./static/media/step5.2f17ad48bfe189880965.png",
-    "static/media/step2.png": "./static/media/step2.a344379ce7bd4d873867.png",
-    "static/media/step4.png": "./static/media/step4.bb8f79302d51a449b04d.png",
-    "static/media/appLogo.png": "./static/media/appLogo.f56d429bfa84165924ff.png",
-    "static/media/step1.png": "./static/media/step1.81bebb406ec0d9abc8bc.png",
-    "static/media/bgLogo.png": "./static/media/bgLogo.cd9e9c1f45c2d3b434d4.png",
-    "static/media/step3.png": "./static/media/step3.bcc26b7d8e86cdbb95ba.png",
-    "index.html": "./index.html",
-    "main.11aec96b.css.map": "./static/css/main.11aec96b.css.map",
-    "main.4f2e541c.js.map": "./static/js/main.4f2e541c.js.map",
-    "787.9712b437.chunk.js.map": "./static/js/787.9712b437.chunk.js.map"
+    "main.css": "/static/css/main.01f867a8.css",
+    "main.js": "/static/js/main.f2c6beab.js",
+    "static/js/787.9712b437.chunk.js": "/static/js/787.9712b437.chunk.js",
+    "static/media/info4.png": "/static/media/info4.b23c3d600cc7f75163ec.png",
+    "static/media/bg.png": "/static/media/bg.fb5bd5b3234ab9bdc806.png",
+    "static/media/pcBg.png": "/static/media/pcBg.30b34bcde0d27533134f.png",
+    "static/media/info3.png": "/static/media/info3.a5637cebbd146f701b24.png",
+    "static/media/pcLogo.png": "/static/media/pcLogo.6bc924f9868048fa7ad1.png",
+    "static/media/step5.png": "/static/media/step5.2f17ad48bfe189880965.png",
+    "static/media/step2.png": "/static/media/step2.a344379ce7bd4d873867.png",
+    "static/media/step4.png": "/static/media/step4.bb8f79302d51a449b04d.png",
+    "static/media/appLogo.png": "/static/media/appLogo.f56d429bfa84165924ff.png",
+    "static/media/step1.png": "/static/media/step1.81bebb406ec0d9abc8bc.png",
+    "static/media/bgLogo.png": "/static/media/bgLogo.cd9e9c1f45c2d3b434d4.png",
+    "static/media/step3.png": "/static/media/step3.bcc26b7d8e86cdbb95ba.png",
+    "index.html": "/index.html",
+    "main.01f867a8.css.map": "/static/css/main.01f867a8.css.map",
+    "main.f2c6beab.js.map": "/static/js/main.f2c6beab.js.map",
+    "787.9712b437.chunk.js.map": "/static/js/787.9712b437.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11aec96b.css",
-    "static/js/main.4f2e541c.js"
+    "static/css/main.01f867a8.css",
+    "static/js/main.f2c6beab.js"
   ]
 }
