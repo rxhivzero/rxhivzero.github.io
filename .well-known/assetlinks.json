@@ -8,5 +8,25 @@
         "84:DF:52:6F:71:AA:86:84:EB:B4:F5:F0:42:EF:C7:9B:16:5E:B3:AD:52:11:1C:9B:DA:E2:B0:6F:EF:5D:76:25"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ubit.stg.rp",
+      "sha256_cert_fingerprints": [
+        "84:DF:52:6F:71:AA:86:84:EB:B4:F5:F0:42:EF:C7:9B:16:5E:B3:AD:52:11:1C:9B:DA:E2:B0:6F:EF:5D:76:25"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ubit.rp",
+      "sha256_cert_fingerprints": [
+        "84:DF:52:6F:71:AA:86:84:EB:B4:F5:F0:42:EF:C7:9B:16:5E:B3:AD:52:11:1C:9B:DA:E2:B0:6F:EF:5D:76:25"
+      ]
+    }
   }
 ]
